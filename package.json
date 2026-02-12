@@ -1,0 +1,12 @@
+{
+  "name": "learning-playwright-batch",
+  "version": "0.1.0",
+  "description": "Playwright automation examples",
+  "main": "chapter_01/basics_01.js",
+  "scripts": {
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {}
+}
