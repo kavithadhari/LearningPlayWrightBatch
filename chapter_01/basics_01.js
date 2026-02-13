@@ -1,2 +1,3 @@
 console.log("Hello, World!");
-console.log("process.platform");
+letx = 5;
+console.log(letx);
